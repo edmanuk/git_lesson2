@@ -25,3 +25,10 @@ _Новый абзац_
 
 [Ссылка на репозиторий](https://github.com/edmanuk/git_lesson2.git)
 
+
+```java
+public static void main(String[] args) {
+    System.out.println("Text");
+}
+```
+
