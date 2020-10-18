@@ -8,6 +8,9 @@
 **дистанционно**
 
 _Новый абзац_
+
+![Ромашка](http://silkflora.info/wp-content/uploads/romashki-300x225.jpg)
+
 > Справочная информация 
 
 Новый абзац
